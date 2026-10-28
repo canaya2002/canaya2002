@@ -1,16 +1,18 @@
-## Hi there 👋
+# Carlos Anaya Ruiz
 
-<!--
-**canaya2002/canaya2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Consultor SEO técnico e ingeniero full-stack en Ciudad de México. Software Development Manager · PMP Certified.
 
-Here are some ideas to get you started:
+Trabajo en cuatro frentes:
+- **SEO técnico:** indexación, datos estructurados, Core Web Vitals y migraciones.
+- **Desarrollo web con Next.js.**
+- **Automatización con IA**, con una persona revisando el resultado.
+- **Dashboards** conectados a datos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dónde encontrarme
+- Sitio: https://www.carlosanayaruiz.com/es
+- Blog: https://www.carlosanayaruiz.com/es/blog
+- LinkedIn: https://www.linkedin.com/in/carlos-anaya-ruiz-732abb249/
+- X: https://x.com/CarlosAnayaRuiz
+- Medium: https://medium.com/@canaya917
+
+Si quieres contarme qué está roto o qué quieres construir: https://www.carlosanayaruiz.com/es/contacto
